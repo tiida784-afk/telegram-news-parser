@@ -1,4 +1,2 @@
 __pycache__/
-*.session
-news.json
 .pytest_cache/
